@@ -6,7 +6,7 @@
         "textures.1024/texture_03.png"
     ],
     "pose": "pose.json",
-    "physics": "himari.json",
+    "physics": "himari.physics.json",
     "layout": {
         "center_x": 0,
         "center_y": -0.6,
