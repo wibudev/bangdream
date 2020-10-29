@@ -3,7 +3,7 @@
     "version":"Sample 1.0.0",
     "model": "yukina.moc",
     "textures": [
-        "textures.1024/texture_00 (1).png"
+        "textures.1024/texture_01.png"
     ],
     "pose": "pose.json",
     "physics": "yukina.physics.json",
