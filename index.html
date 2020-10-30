@@ -6,13 +6,13 @@
 
 <script src='https://l2dwidget.js.org/lib/L2Dwidget.min.js'/>
     <script type='text/javascript'>
-    L2Dwidget
-.on('*', (name) => {
+
+L2Dwidget.on('*', (name) => {
           console.log('%c EVENT ' + '%c -> ' + name, 'background: #222; color: yellow', 'background: #fff; color: #000')
         })
     .init({
         model: {
-          jsonPath: "index2.json",
+          jsonPath: "https://raw.githubusercontent.com/wibudev/bangdream/main/index2.json",
           scale: 1},
           display: {
                 "position": "right",
