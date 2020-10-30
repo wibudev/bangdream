@@ -1,9 +1,11 @@
 
+
+
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Test Wibudev</title>
+    <title>Live2d Test - DomathID</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
@@ -15,7 +17,19 @@
           console.log('%c EVENT ' + '%c -> ' + name, 'background: #222; color: yellow', 'background: #fff; color: #000')
         })
         .init({
-         model:{ "jsonPath":"https://raw.githubusercontent.com/wibudev/bangdream/main/index3.json"}
+           model: {
+               jsonPath: "https://raw.githubusercontent.com/wibudev/bangdream/main/index4.json"},
+            display: {
+                "position": "right",
+                "width": 380,
+                "height": 260,
+                "hOffset": 0,
+                "vOffset": 0
+            },
+           mobile: { 
+               show: true,
+               scale: 1.9
+           },
           dialog: {
             // 开启对话框
             enable: true,
