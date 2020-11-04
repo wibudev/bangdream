@@ -1,6 +1,6 @@
 {
     "version":"Sample 1.0.0",
-    "model": "model.moc",
+    "model": "yukina.moc",
     "textures": [
         "textures.1024/01.png"
     ],
