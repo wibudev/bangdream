@@ -1,6 +1,6 @@
 {
     "version":"Sample 1.0.0",
-    "model": "model.moc",
+    "model": "himari.moc",
     "textures": [
         "textures.1024/texture_03.png"
     ],
