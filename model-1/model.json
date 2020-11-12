@@ -2,9 +2,9 @@
     "version":"Sample 1.0.0",
     "model": "yukina.moc",
     "textures": [
-        "textures.1024/01.png"
+        "textures.1024/texture_01.png"
     ],
-    "pose": "../general/pose.json",
+    "pose": "./general/pose.json",
     "physics": "physics.json",
     "layout": {
         "center_x": 0,
@@ -19,9 +19,9 @@
 	},
 	"motions": {
         "idle": [
-            {"file": "motions/../../general/mtn/idle_00.mtn", "fade_in": 2000, "fade_out": 2000},
-            {"file": "motions/../../general/mtn/idle_01.mtn", "fade_in": 2000, "fade_out": 2000},
-            {"file": "motions/../../general/mtn/idle_02.mtn", "fade_in": 2000, "fade_out": 2000}
+            {"file": "motions/./general/mtn/idle_00.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/./general/mtn/idle_01.mtn", "fade_in": 2000, "fade_out": 2000},
+            {"file": "motions/./general/mtn/idle_02.mtn", "fade_in": 2000, "fade_out": 2000}
         ]
 	}
 }
