@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="./assets/img/logo.png" width="340px"/>
- <h2 align="center">Bangdream Girls Band Model</h2>
+  <img src="./assets/img/logo.png" width="300px"/>
+ <h2 align="center">Bangdream Girls Band Party Model</h2>
 </p>
 
 ### Information 
