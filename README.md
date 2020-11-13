@@ -1,2 +1,2 @@
-# Bangdream
-<img src="./assets/img/logo.png" width="40px">
+### Bangdream 
+<img style="align:center" src="./assets/img/logo.png" width="240px">
